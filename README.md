@@ -1,5 +1,5 @@
 # DSMovie - Semana Spring React
-Status Front-End: Em andamento.
+Status Front-End: Parcialmente concluído.
 
 Status Back-End: Em andamento.
 
