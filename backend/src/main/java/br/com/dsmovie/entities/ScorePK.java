@@ -6,6 +6,8 @@ import javax.persistence.Embeddable;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 
+
+//Classe que representa a chave composta da tabela score
 @Embeddable
 public class ScorePK implements Serializable {
 
