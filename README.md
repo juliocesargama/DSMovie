@@ -28,6 +28,7 @@ No Front-End:
 - Estilização das páginas HTML com Bootstrap;
 - [Axios](https://axios-http.com/);
 - useState e useEffect para manipulação de dados;
+- useParams;
 
 #### Modelo Conceitual das Entidades:
 
