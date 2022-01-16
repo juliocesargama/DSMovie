@@ -24,11 +24,12 @@ No Back-End:
 ![padrao-camadas](https://user-images.githubusercontent.com/70298438/149643649-14435609-c508-42aa-a4cf-ad175408ab31.png)
 
 No Front-End: 
-- React Router DOM;
 - Estilização das páginas HTML com Bootstrap;
-- [Axios](https://axios-http.com/);
-- useState e useEffect para manipulação de dados;
+- React Router DOM e useNavigate;
 - useParams;
+- useState e useEffect para manipulação de dados;
+- [Axios](https://axios-http.com/) e AxiosRequestConfig;
+
 
 #### Modelo Conceitual das Entidades:
 
