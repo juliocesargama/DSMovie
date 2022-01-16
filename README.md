@@ -26,7 +26,8 @@ No Back-End:
 No Front-End: 
 - React Router DOM;
 - Estilização das páginas HTML com Bootstrap;
-- [Axios](https://axios-http.com/).
+- [Axios](https://axios-http.com/);
+- useState e useEffect para manipulação de dados;
 
 #### Modelo Conceitual das Entidades:
 
