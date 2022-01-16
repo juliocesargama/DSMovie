@@ -1,3 +1,5 @@
+
+
 # DSMovie - Semana Spring React
 #### Status Front-End:Em andamento.
 #### Status Back-End: Concluído.
@@ -32,6 +34,7 @@ No Front-End:
 
 ## Instruções para a Instalação:
 Visualização do projeto em funcionamento no [Netlify](https://jcgama-dsmovie.netlify.app/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/27718859-c041-4309-a6b5-ddb8ae1d5473/deploy-status)](https://app.netlify.com/sites/jcgama-dsmovie/deploys)
 
 Para rodar o projeto no Back-End:
 
