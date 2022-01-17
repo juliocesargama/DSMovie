@@ -1,7 +1,7 @@
 
 
 # DSMovie - Semana Spring React
-#### Status Front-End:Em andamento.
+#### Status Front-End: Concluído.
 #### Status Back-End: Concluído.
 
 Projeto de uma aplicação para avaliação de filmes a partir da opinião dos usuários de acordo com uma lista estabelecida, bem como a quantidade de avaliações dos usuários e sua respectiva média.
